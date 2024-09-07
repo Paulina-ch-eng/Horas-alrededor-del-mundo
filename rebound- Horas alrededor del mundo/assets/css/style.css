@@ -1,0 +1,55 @@
+.card{
+    height: 90px;
+    width: 60%;
+}
+
+#reloj-santiago, #reloj-paris, #reloj-londres, #reloj-nueva-york, #reloj-san-petersburgo, #reloj-beijing, #reloj-seul{
+    margin-left: 100px;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+span{
+ display: flex;
+ 
+}
+
+#Chile{
+ width: 35px;
+ height: 35px;
+ margin-right: 70px;
+}
+
+#Francia{
+    width: 35px;
+    height: 30px;
+    margin-right: 70px;
+}
+#Inglaterra{
+    width: 35px;
+    height: 40px;
+    margin-right: 70px;
+}
+
+#Estados-Unidos{
+    width: 40px;
+    height: 30px;
+    margin-right: 70px;
+}
+
+#Corea-del-Sur{
+    width: 46px;
+    height: 40px;
+    margin-right: 70px;
+}
+#Rusia{
+    width: 46px;
+    height: 45px;
+    margin-right: 70px;
+}
+#China{
+    width: 46px;
+    height: 40px;
+    margin-right: 70px;
+}
